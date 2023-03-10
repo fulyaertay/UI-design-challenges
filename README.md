@@ -14,10 +14,7 @@
     
   ## Overview
 
-  Completed these projects that are parts of [Scrimba](https://scrimba.com/learn/frontend/)'s Learn UI Design Module. I mastered HTML/CSS and UI design concepts in these projects.
-  You can see the visual representations of the each app below.
-  
-  ### What I Learned?
+  Completed these projects that are parts of [Scrimba](https://scrimba.com/learn/frontend/)'s Learn UI Design Module. I mastered HTML/CSS and UI design concepts in these projects. I learned UI design concepts following;
   - White Space
   - Color 
   - Contrast 
@@ -25,6 +22,9 @@
   - Alignment
   - Typography
   - Visual Hierarchy
+  
+  You can see the visual representations of the each app below.
+  
 
   ## Projects
 
