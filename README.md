@@ -2,7 +2,7 @@
 
 - [Overview](#overview)
 
-- [Projects](#projects)
+- [Challenges](#challenges)
 
   - [Design Challenge 1](#design-challenge-1)
   - [Design Challenge 2](#design-challenge-2)
