@@ -10,6 +10,7 @@
   - [Design Challenge 4](#design-challenge-4)
   - [Design Challenge 5](#design-challenge-5)
   - [Design Challenge 6](#design-challenge-6)
+  - [Design Challenge 7](#design-challenge-7)
     
     
   ## Overview
@@ -57,6 +58,12 @@
 
   ### Visualization of the app;
   ![image](./design-challenge-6/design-challenge-6.png)
+  
+  
+  ### Design Challenge 7
+
+  ### Visualization of the app;
+  ![image](./design-challenge-7/design-challenge-7.png)
  
  
  
